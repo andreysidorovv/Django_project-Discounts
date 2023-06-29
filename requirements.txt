@@ -1,6 +1,5 @@
 ﻿asgiref==3.7.1
 Django==3.2.19
-numpy==1.24.3
 psycopg2==2.9.6
 sqlparse==0.4.4
 tzdata==2023.3
