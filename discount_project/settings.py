@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'new_bd',
         'USER': 'root',
         'PASSWORD': 'Stud112924!',
-        'HOST': 'localhost',
+        'HOST': 'std-mysql',
     }
 }
 
