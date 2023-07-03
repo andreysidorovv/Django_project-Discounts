@@ -79,18 +79,11 @@ WSGI_APPLICATION = 'discount_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-<<<<<<< HEAD
         'NAME': 'sakila',
         'USER': 'root',
         'PASSWORD': 'Stud112924!',
         'HOST': 'localhost',
         'PORT': '3306'
-=======
-        'NAME': 'std_2364_new_bd',
-        'USER': 'std_2364_new_bd',
-        'PASSWORD': 'Andr200513',
-        'HOST': 'std-mysql',
->>>>>>> f94cc1b7a87c84f0e8af479c35227af06311bb28
     }
 }
 
